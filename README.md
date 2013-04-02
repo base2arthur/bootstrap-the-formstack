@@ -1,7 +1,7 @@
 # Bootstrap the Formstack
 A little bit of JavaScript to help embedded Formstack forms fit nicely into Twitter Bootstrap
 
-Created during a Knewton Hack Day. Credit for the code in the first commits (and probably behond) goes to [Jon Tascher](https://github.com/jontas "Jon Tascher").
+Created during a Knewton Hack Day. Credit for the code in the first commits (and probably beyond) goes to [Jon Tascher](https://github.com/jontas "Jon Tascher").
 
 ## Why?
 Formstack is a great little piece of SaaS. But it has a deep, burning hatred for existing CSS. When embedded via JS, the resulting form and CSS will tear through your pretty page.
